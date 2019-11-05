@@ -1,6 +1,6 @@
 ## Welcome to Choose A Meal Happily
 
-![Image](1024.jpg)
+![Image](1024.png)
 
 We wear clothes every day, I hope this app can help you.
 
